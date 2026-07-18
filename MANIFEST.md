@@ -1,0 +1,22 @@
+# File Manifest
+
+| File | SHA-256 |
+|---|---|
+| `README.md` | `0cb1f24248b3302ffa629d2a897e8d59c41f839beddc1324e7520979b2070a90` |
+| `docs/00-DOCUMENT-CONTROL.md` | `e6c2f13dc81d768c1e01f65dcdf78283e73b24024db15e780c69e555f5074643` |
+| `docs/01-BRD.md` | `4e7d8be767e572491f1c9424b054ee0501364c26c92f2f5d2ef8f717323e394c` |
+| `docs/02-FRD.md` | `b07804aab70a0b232fb3484e2247f467882c554f022ab5f54266a7cb78bcb0c3` |
+| `docs/03-SRD.md` | `aa53014f0d0a4b7ffc81c2678f9d962689ea4ec3446636d0b4e1beda5f8ce834` |
+| `docs/04-DOMAIN-DATA-MODEL.md` | `cc789eb308e123f0e0b0b903cfa653cd8858926c10f6fd87ba9f1b4902cc3c50` |
+| `docs/05-BUSINESS-WORKFLOWS.md` | `254f3268f24688d0777d68972ea643ea083c8780382e44ac3bdb8f50066573e9` |
+| `docs/06-API-CONTRACT.md` | `a8c244d3f14e07b51e2735611a50624a1e1deb9aa184d8cb4fe1a2fcedb5ed0c` |
+| `docs/07-TEST-STRATEGY.md` | `976c7c1eecb85dfb4e46655a9909a003ed4aaf734a29f196c139aaf65fbc6470` |
+| `docs/08-DEVELOPMENT-WORKFLOW.md` | `101612bad9f28e370e89002f16e2a4c6297df3aabf95ba93e5e09bf93c8fda26` |
+| `docs/09-DELIVERY-PLAN.md` | `35f19482524fe5cfc0202da4b3a36b2b3824c6ac6b842b09e4ac5a917fa5224a` |
+| `docs/10-TRACEABILITY-MATRIX.md` | `3f05dcf22eb7ab29fca91f4b283ba715623dc448eec26e3b7f696d09c0504e20` |
+| `docs/11-SOURCES.md` | `94b61474678dd54ba99b863705401f76a69d1610cfcdf7bba1c6c64f5930fed0` |
+| `docs/12-CHANGELOG.md` | `fbaac100772bb87573c0e67448e43c3cc9c7aab7d8aa104d211aee2c601ca7a8` |
+| `docs/13-CONSISTENCY-REPORT.md` | `1752199c3a24c3e1b8ed7f77346e2df4ec03c5e4d59634a6ff355d836b965f4c` |
+| `docs/adr/ADR-001-modular-monolith.md` | `aa3082cb696b66379a57fcaeb6ab0d43cc123a9328c2fe8743279991d9b4aa9f` |
+| `docs/adr/ADR-002-inventory-reservation.md` | `0e2a85e55ac15dfc2eddba35ce294853dd71eca0b901a3c08ac4022c43f71e9e` |
+| `docs/adr/ADR-003-side-effects-after-commit.md` | `8b6200149fa8f5aa09d2d6a91c4fe7166e47ce3020fe5da3c68534216422f80f` |
